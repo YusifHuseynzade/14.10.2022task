@@ -1,0 +1,93 @@
+.img-1 {
+    border-radius: 15%;
+    width: 12%;
+    margin-top: 2.5rem;
+}
+.fnt-family {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 40px !important;
+    font-style: italic;
+    font-weight: bolder;
+    color: #e50914 !important;
+    margin-top: 2rem !important;
+}
+.height {
+    height: 250px;
+    border-radius: 5%;
+}
+.height-card {
+    height: 270px;
+}
+.btn-color {
+    background: linear-gradient(to right, #D01498,#e50914,#e50914,#D01498);
+    overflow: hidden;
+    background-size: 200%;
+    background-position: left;
+    transition: 0.5s;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 7px;
+}
+.btn-color:hover {
+    background-position: right;
+}
+.btn-color2 {
+    background: #e50914;
+    overflow: hidden;
+    background-position: center;
+    transition: 0.5s;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 7px;
+}
+.btn-color2:hover {
+    background-color: #b64c52;
+}
+.bck-img {
+    background: rgba(239, 53, 53, 0.4);
+    background: linear-gradient(0deg,rgba(0,0,0,0.85) 0,transparent 80%,rgba(0,0,0,0.9)), url(/images/AZ-en-20221010-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    height: 150vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(153, 21, 21, 0.8));
+}
+.card {
+    background: linear-gradient(to right, #D01498,#e50914,#e50914,#D01498);
+    overflow: hidden;
+    background-size: 200%;
+    background-position: left;
+    transition: 0.4s;
+    padding-top: 8px;
+    border-radius: 7px;
+}
+.card:hover {
+    background-position: right;
+    scale: 110%;
+}
+.h1-1 {
+    font-weight: bolder;
+    font-size: 30px !important;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #e50914;
+    border-radius: 10%;
+    background: linear-gradient(0deg,rgba(0,0,0,0.8) 0,transparent 60%,rgba(0,0,0,0.8));
+    
+}
+.h3-1 {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 22px !important;
+    font-weight: bolder;
+    border-radius: 10%;
+    background: linear-gradient(0deg,rgba(0,0,0,0.8) 0,transparent 60%,rgba(0,0,0,0.8));
+}
+.btn-hvr:hover {
+    background-color: #962f33;
+}
+.input-2 {
+    width: 35%;
+}
+.navbar {
+    background: linear-gradient(0deg,rgba(0,0,0,0.3) 0,transparent 80%,rgba(0,0,0,0.3));
+    border-radius: 5%;
+    box-shadow: 0.25px 0.25px 0.25px 0.25px black;
+}
